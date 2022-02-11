@@ -7,8 +7,9 @@
  
 ◆¿Por que yo? 
 
- -Puedo dar todo mi esfuerzo para resolver algún problema.
--¿Por que no?.
+ - Puedo dar todo mi esfuerzo para resolver algún problema.
+ 
+- ¿Por que no?.
   
 🧩 Mis Tech Skills: 
 HTML5 | CSS3 | JavaScript | React & Redux | Hooks | NodeJS | Express | Sequelize | PostgreSQL | Git & GitHub | Material UI | java | Programcion en C
